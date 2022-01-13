@@ -1,0 +1,13 @@
+{
+    "name": "ContactUsMassages",
+    "alias": "contactusmassages",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ContactUsMassages\\Providers\\ContactUsMassagesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
